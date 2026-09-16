@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { FiBriefcase, FiCalendar, FiMapPin, FiCheckCircle2 } from 'react-icons/fi';
+import { FiBriefcase, FiCalendar, FiMapPin, FiCheckCircle } from 'react-icons/fi';
 
 const Experience = ({ profile }) => {
   const [activeTab, setActiveTab] = useState(0);
@@ -110,7 +110,7 @@ const Experience = ({ profile }) => {
               <ul className="exp-bullets">
                 {experiences[activeTab].description.map((bullet, bIdx) => (
                   <li key={bIdx} className="exp-bullet-item">
-                    <span className="bullet-icon"><FiCheckCircle2 /></span>
+                    <span className="bullet-icon"><FiCheckCircle /></span>
                     <span className="bullet-text">{bullet}</span>
                   </li>
                 ))}
