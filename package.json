@@ -1,0 +1,17 @@
+{
+  "name": "syed-ali-hussain-portfolio",
+  "version": "1.0.0",
+  "description": "MERN Stack Portfolio - Syed Ali Hussain, AI/ML Engineer",
+  "scripts": {
+    "server": "cd server && node server.js",
+    "client": "cd client && npm start",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "install-all": "npm install && cd client && npm install && cd ../server && npm install",
+    "build": "cd client && npm run build"
+  },
+  "dependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "author": "Syed Ali Hussain",
+  "license": "MIT"
+}
