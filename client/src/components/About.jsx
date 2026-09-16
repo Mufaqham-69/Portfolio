@@ -62,7 +62,7 @@ const About = ({ profile }) => {
               <span className="meta-icon"><FiMail /></span>
               <div>
                 <div className="meta-label">Direct Email</div>
-                <div className="meta-value">{profile?.email || 'syedalihussain@email.com'}</div>
+                <div className="meta-value">{profile?.email || 'syedmufaqham@gmail.com'}</div>
               </div>
             </div>
           </div>

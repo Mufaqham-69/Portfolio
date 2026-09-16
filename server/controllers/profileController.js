@@ -36,11 +36,11 @@ function getDefaultProfile() {
   return {
     name: 'Syed Ali Hussain',
     title: 'AI/ML Engineer',
-    email: 'syedalihussain@email.com',
+    email: 'syedmufaqham@gmail.com',
     location: 'Hyderabad, India',
     bio: 'AI/ML Engineer building production-grade systems — from data pipelines to deployed models. Specializing in Azure ML, Deep Learning, NLP, and Computer Vision.',
-    linkedin: 'https://linkedin.com/in/syedalihussain',
-    github: 'https://github.com/syedalihussain',
+    linkedin: 'https://www.linkedin.com/in/ali-hussain-syed-a2a56031b',
+    github: 'https://github.com/Mufaqham-69',
     kaggle: 'https://kaggle.com/syedalihussain',
     stats: [
       { label: 'Internships', value: '4+' },

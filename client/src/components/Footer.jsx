@@ -31,13 +31,13 @@ const Footer = () => {
             © {new Date().getFullYear()} Syed Ali Hussain. Designed & Built with MERN Stack.
           </p>
           <div className="footer-social-icons">
-            <a href="https://github.com/syedalihussain" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+            <a href="https://github.com/Mufaqham-69" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
               <FiGithub />
             </a>
-            <a href="https://linkedin.com/in/syedalihussain" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+            <a href="https://www.linkedin.com/in/ali-hussain-syed-a2a56031b" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
               <FiLinkedin />
             </a>
-            <a href="mailto:syedalihussain@email.com" aria-label="Email">
+            <a href="mailto:syedmufaqham@gmail.com" aria-label="Email">
               <FiMail />
             </a>
           </div>

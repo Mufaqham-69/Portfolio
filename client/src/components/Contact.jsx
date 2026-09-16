@@ -69,11 +69,11 @@ const Contact = () => {
             </p>
 
             <div className="contact-methods">
-              <a href="mailto:syedalihussain@email.com" className="method-item">
+              <a href="mailto:syedmufaqham@gmail.com" className="method-item">
                 <div className="method-icon"><FiMail /></div>
                 <div>
                   <div className="method-label">Email</div>
-                  <div className="method-val">syedalihussain@email.com</div>
+                  <div className="method-val">syedmufaqham@gmail.com</div>
                 </div>
               </a>
 
@@ -89,10 +89,10 @@ const Contact = () => {
             <div className="sidebar-socials">
               <div className="socials-label">Social Channels</div>
               <div className="socials-links">
-                <a href="https://linkedin.com/in/syedalihussain" target="_blank" rel="noopener noreferrer" className="social-pill">
+                <a href="https://www.linkedin.com/in/ali-hussain-syed-a2a56031b" target="_blank" rel="noopener noreferrer" className="social-pill">
                   <FiLinkedin /> <span>LinkedIn</span>
                 </a>
-                <a href="https://github.com/syedalihussain" target="_blank" rel="noopener noreferrer" className="social-pill">
+                <a href="https://github.com/Mufaqham-69" target="_blank" rel="noopener noreferrer" className="social-pill">
                   <FiGithub /> <span>GitHub</span>
                 </a>
               </div>

@@ -51,7 +51,7 @@ const Navbar = () => {
 
         <div className="nav-actions">
           <a
-            href="https://github.com/syedalihussain"
+            href="https://github.com/Mufaqham-69"
             target="_blank"
             rel="noopener noreferrer"
             className="nav-icon-link"
@@ -60,7 +60,7 @@ const Navbar = () => {
             <FiGithub />
           </a>
           <a
-            href="https://linkedin.com/in/syedalihussain"
+            href="https://www.linkedin.com/in/ali-hussain-syed-a2a56031b"
             target="_blank"
             rel="noopener noreferrer"
             className="nav-icon-link"
